@@ -3,6 +3,7 @@ Darya Krutyeva
 dkrutye@wgu.edu
 
 The purpose of this project is to help a fictional university migrate an existing student system to a new platform using C++ language. 
+Built using Visual Studio
 
 Competencies:
 4048.2.1 : Introduction to Programming
